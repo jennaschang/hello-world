@@ -1,0 +1,8 @@
+Potential research topics:
+- databases & database management systems
+- what kind of tests to write for a database integration
+- what kind of data will our database store
+
+Database storage ideas:
+- data to track sales for a small business
+- data to store user's character sheets for a game
