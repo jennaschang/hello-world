@@ -1,0 +1,4 @@
+Potential research topics:
+-databases and dbms
+-what kind of tests to write for a database integration
+-what kind of data to store
